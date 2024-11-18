@@ -8,4 +8,5 @@ function longest(s1, s2) {
         myArray.push(s3[i])
       }
     }
-    return myArray.sort().join('')
+    return myArray.sort().join('');
+  }
