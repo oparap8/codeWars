@@ -8,5 +8,3 @@ function apparently(string) {
     }
     return myArray.join(' ')
   }
-
-  console.log(apparently("It was great and apparently I've never been on live television before but sometimes I don't watch this."))
